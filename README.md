@@ -1,4 +1,4 @@
-<img align = "" src="https://github.com/aw-junaid/aw-junaid/blob/main/peakpx.jpg" width="1000" height="150" alt="awjunaid">
+<img align = "" src="python.jpg" width="1000" height="150" alt="awjunaid">
 
 ![Discord](https://img.shields.io/discord/1163365511309049948)
 ![GitHub followers](https://img.shields.io/github/followers/aw-junaid)
@@ -30,7 +30,6 @@ This repository is a comprehensive guide for utilizing Python in the fields of n
 
 ## Python History
 
-![Python History](python_history.png)
 
 Python is a versatile, high-level programming language that was first released in 1991 by Guido van Rossum. It is known for its simplicity and readability, making it an excellent choice for beginners and professionals alike.
 
