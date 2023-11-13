@@ -59,5 +59,13 @@ Here are some common tasks and functionalities provided by the `sys` module:
    sys.stdout.write("This is written to stdout\n")
    sys.stderr.write("This is written to stderr\n")
    ```
+```python
+import sys
+print("This is the name of the script:",sys.argv[0])
+print("The number of arguments is: ",len(sys.argv))
+print("The arguments are:",str(sys.argv))
+print("The first argument is ",sys.argv[1])
+print("The second argument is ",sys.argv[2])
+```
 
 These are just a few examples of what you can do with the `sys` module. It's a versatile module that provides access to various aspects of the Python runtime environment.
