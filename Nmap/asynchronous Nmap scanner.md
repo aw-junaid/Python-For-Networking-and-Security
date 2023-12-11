@@ -1,4 +1,4 @@
-### Network Scanner using Nmap
+## Network Scanner using Nmap
 
 This Python script utilizes the `nmap` library to perform a network scan on a specified host. It checks the status and state of common ports (21, 22, 23, 25, 80) for the specified host.
 
