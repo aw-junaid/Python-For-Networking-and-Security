@@ -1,3 +1,4 @@
+ # ping
 import subprocess
 import sys
 command_ping = '/bin/ping'
