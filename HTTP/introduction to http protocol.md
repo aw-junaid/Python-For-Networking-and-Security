@@ -1,6 +1,6 @@
 **HTTP (Hypertext Transfer Protocol)** is an application-layer protocol widely used for transmitting hypermedia documents, such as HTML. It forms the foundation of data communication on the World Wide Web and operates in a client-server model. Developed by Tim Berners-Lee in 1989, HTTP is designed for simplicity and scalability.
 
-### Key Features of HTTP:
+## Key Features of HTTP:
 
 1. **Stateless Protocol:**
    - Each request from a client to a server is independent and doesn't rely on previous requests. The server does not retain information about the client's state between requests.
