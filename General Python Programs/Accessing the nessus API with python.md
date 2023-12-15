@@ -1,6 +1,6 @@
 Accessing the Nessus API with Python involves making HTTP requests to the Nessus server and handling the responses. Nessus provides a RESTful API that allows you to automate various tasks. Here's a basic example using the `requests` library in Python:
 
-### Step 1: Install the `requests` Library
+## Step 1: Install the `requests` Library
 
 You can install the `requests` library using pip if you haven't already:
 
