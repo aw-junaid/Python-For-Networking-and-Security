@@ -61,7 +61,7 @@ To connect Python to Microsoft SQL Server, you can use the `pyodbc` library, whi
    conn.close()
    ```
 
-Here's a complete example that demonstrates connecting Python to SQL Server using `pyodbc`:
+# Here's a complete example that demonstrates connecting Python to SQL Server using `pyodbc`:
 
 ```python
 import pyodbc
