@@ -1,4 +1,4 @@
-Authentication mechanisms in Python can vary depending on the type of authentication required by the service or application you are interacting with. Here, I'll cover several common authentication mechanisms and how to implement them in Python.
+### Authentication mechanisms in Python can vary depending on the type of authentication required by the service or application you are interacting with. Here, I'll cover several common authentication mechanisms and how to implement them in Python.
 
 ### 1. **HTTP Basic Authentication:**
 
