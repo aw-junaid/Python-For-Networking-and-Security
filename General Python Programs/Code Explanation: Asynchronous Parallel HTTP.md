@@ -1,4 +1,4 @@
-### Code Explanation: Asynchronous Parallel HTTP/2 Requests with `httpx` and `trio`
+## Code Explanation: Asynchronous Parallel HTTP/2 Requests with `httpx` and `trio`
 
 Let's break down the provided Python code that uses the `httpx` library to make asynchronous parallel HTTP/2 GET requests to Wikipedia URLs and stores the results in a dictionary.
 
