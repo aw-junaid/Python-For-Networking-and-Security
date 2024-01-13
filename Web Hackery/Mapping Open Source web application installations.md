@@ -1,4 +1,4 @@
-Mapping open-source web application installations involves identifying and documenting the presence of specific web applications on a network or set of domains. This can be useful for various purposes, including security assessments, inventory management, and compliance checks. Below is a high-level overview of the process and considerations for mapping open-source web application installations:
+### Mapping open-source web application installations involves identifying and documenting the presence of specific web applications on a network or set of domains. This can be useful for various purposes, including security assessments, inventory management, and compliance checks. Below is a high-level overview of the process and considerations for mapping open-source web application installations:
 
 1. **Discovery:**
    - **Network Scanning:** Use network scanning tools (such as Nmap) to identify live hosts on the network.
