@@ -1,3 +1,4 @@
+
 The Exchangeable image file format (EXIF) is a standard for storing metadata in image files, including details such as camera settings, date and time, and location information. The Python Imaging Library (PIL) is a library for opening, manipulating, and saving many different image file formats.
 
 Note: As of the end of 2011, the original PIL project is no longer maintained. However, the Pillow library is a more up-to-date and actively maintained fork of PIL. Therefore, it is recommended to use Pillow instead of PIL.
