@@ -1,3 +1,4 @@
+
 Brute-forcing HTML-based authentication using the `socket` module in Python involves manually crafting HTTP requests and handling the communication with the web server. This process typically requires sending POST requests with different username and password combinations and analyzing the HTML responses to check for successful login or authentication failure.
 
 Here is a basic example of how you might approach brute-forcing HTML-based authentication using the `socket` module:
