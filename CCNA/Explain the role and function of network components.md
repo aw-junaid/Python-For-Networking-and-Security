@@ -1,3 +1,4 @@
+
 Network components play crucial roles in the functioning of computer networks, which are essential for communication and data exchange between devices. Here are some key network components and their functions:
 
 1. **Network Devices:**
