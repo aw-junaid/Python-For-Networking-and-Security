@@ -1,3 +1,4 @@
+
 The Python `bool()` function converts any object to a boolean value, `True` or `False`.
 
 The `bool()` function can be used on any object, including:
